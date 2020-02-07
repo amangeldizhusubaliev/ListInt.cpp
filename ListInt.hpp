@@ -1,4 +1,3 @@
-// to-do: debug mode release mode #define #ifndef etc
 #pragma once
 
 #include <cassert>
